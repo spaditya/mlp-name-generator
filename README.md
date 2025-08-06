@@ -1,4 +1,4 @@
-# Neural-NetProject
+# MLP-Name-Generator
 This project trains a simple neural network to generate names character-by-character using PyTorch.
 
 ## Features
